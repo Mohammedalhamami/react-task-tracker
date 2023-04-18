@@ -1,0 +1,15 @@
+{
+    "emmet.excludeLanguages": [
+        "php",
+        "markdown"
+       
+    ],
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.preferences": {
+        
+    },
+   
+}
+
